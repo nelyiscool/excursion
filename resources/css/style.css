@@ -1,0 +1,42 @@
+#download{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+footer{
+    text-align:right;
+    color: gray;
+}
+
+.phone{
+    margin: 2rem;
+}
